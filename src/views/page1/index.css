@@ -1,0 +1,6 @@
+body{
+    background-color: gold;
+}
+::placeholder{
+    color: #333;
+}
